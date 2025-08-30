@@ -4,6 +4,8 @@ Thanks for stopping by at my GitHub profile, good to meet you. I'm currently a s
 
 # Projects I'm Planning Or Current Working On
 
-*Minecraft Village Maps website that is currently being made with HTML, CSS, and JavaScript
-*Balloon Popping Game created on Java
+* ## Minecraft Village Maps Website
+  Website dedicated for a varity of village makes. The website is currently being made with HTML, CSS, and JavaScript
+* ## Balloon Popping Game
+  Game that focus on popping balloons with a single tap. Currently being made on Java
 
